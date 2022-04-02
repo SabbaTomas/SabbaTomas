@@ -5,8 +5,8 @@ En camino a convertirme en desarollador web. Bienvenido a mi repositorio, podras
 
 En los proyectos vas a encontrar:
 - ⚡ HTML, CSS, Bootstrap
-- ⚡ PHP, Laravel
-- ⚡ JavaScript, React.
+- ⚡ JavaScript
+- ⚡ Node Js
 
 ### Contaco
 
